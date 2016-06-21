@@ -5,7 +5,6 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Simulation {
-
 	
 	public static void main(String[] args) {
 		
@@ -30,6 +29,4 @@ public class Simulation {
 		System.out.println(model.backtrace());
 		
 	}
-	
-	
 }
